@@ -1,0 +1,1 @@
+Learning and making a basic Python website with Django framework.
